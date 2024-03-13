@@ -1,0 +1,28 @@
+@charset "UTF8";
+body{
+    overflow-x: hidden;
+}
+h1{
+    text-align: center;
+}
+.a{
+    margin-left: 200px;
+}
+.a2{
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    background-color: rgb(76, 255, 76);
+    border-radius: 20px;
+}
+.a2:hover{
+    background-color: green;
+}
+img{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+footer a{
+    margin-left: 10px;
+}
